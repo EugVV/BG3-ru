@@ -5,7 +5,7 @@
 
 Версия игры: 4.1.1.6072089.
 
-Версия перевода: 1.5.
+Версия перевода: 1.6.
 
 Сборка перевода на [yandex](https://disk.yandex.com/d/cKaeLyBsPbgZog), файл обновляется.
 Для установки заменяем файл `Data\Localization\Russian\Russian.pak`.
