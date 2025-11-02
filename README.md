@@ -12,7 +12,7 @@
 
 Второй вариант установки — модом. Мод называется «Fixed Russian translation» и доступен в менеджере модов игры.
 
-Самостоятельная сборка Russian.pak: buildPak.cmd. Создаёт подкаталог build и собирает Russian.pak там. Для сборки требуется установленный .NET 8.0.
+Самостоятельная сборка Russian.pak: buildPak.cmd (для сборки из-под Windows) или buildPak.sh (из-под Linux). Создаёт подкаталог build и собирает Russian.pak там. Для сборки требуется установленный .NET 8.0.
 
 [Тема для обсуждения проекта доработки](https://arcanecoast.ru/forum/viewtopic.php?f=8&t=1890).
 
