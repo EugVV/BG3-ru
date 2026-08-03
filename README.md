@@ -7,7 +7,7 @@
 
 Версия перевода: 1.15.
 
-Сборка перевода на [yandex](https://disk.yandex.com/d/cKaeLyBsPbgZog), файл обновляется.
+Сборка перевода на [yandex](https://disk.yandex.com/d/OM3R77VOvANyvw), файл обновляется.
 Для установки заменяем файл `Data\Localization\Russian\Russian.pak`.
 
 Второй вариант установки — модом. Мод называется «Fixed Russian translation» и доступен в менеджере модов игры.
